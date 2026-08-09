@@ -1,0 +1,15 @@
+__pycache__/
+  *.pyc
+  .venv/
+  venv/
+  env/
+  .env
+  metastore_db/
+  spark-warehouse/
+  *.log
+  data/*.csv
+  data/*.parquet
+  !data/samples/
+  .vscode/
+  .idea/
+  .DS_Store
